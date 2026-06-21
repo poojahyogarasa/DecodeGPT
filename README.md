@@ -224,19 +224,17 @@ Create a learning roadmap for this candidate.
 
 ### Main Interface
 
-_Add project screenshots here_
+![DecodeGPT Home](assets/home.png)
 
-```text
-assets/home.png
-```
+### Chat Intelligence
 
-### PDF Intelligence
+![DecodeGPT Home](assets/chat.png)
 
-_Add PDF analysis screenshot here_
+### Pdf Uploads
 
-```text
-assets/pdf-intelligence.png
-```
+![DecodeGPT Home](assets/pdf_summary.png)
+
+![DecodeGPT Home](assets/pdf_summary_2.png)
 
 ---
 
