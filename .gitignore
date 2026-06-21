@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.env
+
+uploads/
+data/chat_history.db
+
+.streamlit/
+
+venv/
+.env/
+
+.DS_Store
+Thumbs.db
